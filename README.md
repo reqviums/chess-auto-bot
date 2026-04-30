@@ -1,4 +1,4 @@
-# ♟️ Chess Auto Bot
+# ♟️ Chess.com Auto Bot
 
 ## 📌 Overview
 
