@@ -15,6 +15,9 @@ The thinking time is dynamic — as the game progresses and the timer decreases,
 
 After a game finishes, the bot will automatically start a new game after a short delay.
 
+🎥 Video Showcase
+
+Watch the bot in action:
 [![Showcase](https://i3.ytimg.com/vi/zb3kWhO9X4Y/hqdefault.jpg)](https://www.youtube.com/watch?v=zb3kWhO9X4Y)
 
 ---
